@@ -1,0 +1,3 @@
+#ifndef INDEVELOPMENT
+#define CONFIG_FREERTOS_HZ 100
+#endif
